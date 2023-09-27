@@ -1,5 +1,6 @@
 # Eyes Exercise
 <img src= "oneeye.png" width='300'/>
+
 ## Description
 
 The Eyes Exercise is a simple project that demonstrates the movement of two animated eyes following the mouse cursor. This project is a fun way to practice basic HTML, CSS, and JavaScript interactions.
