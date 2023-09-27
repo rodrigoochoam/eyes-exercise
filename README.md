@@ -24,6 +24,8 @@ To run the Eyes Exercise, follow these steps:
 
 4. Move your mouse cursor within the browser window, and you will see the animated eyes following your cursor's movements.
 
+5. If you don't want to do the previous steps, you can open https://eyes-rom.netlify.app/ 
+
 ## Roadmap of Future Improvements
 While the Eyes Exercise is a simple project, you can enhance it or use it as a starting point for further learning:
 
